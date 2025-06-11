@@ -68,6 +68,26 @@ sysinfo.txt
 *.unitypackage.meta
 *.app
 
+# Visual Studio cache
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# MacOS
+.DS_Store
+
+# Rider
+.idea/
+*.sln.iml
+
 # Crashlytics generated file
 crashlytics-build.properties
 
